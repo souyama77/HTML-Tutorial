@@ -40,7 +40,7 @@ HTMLでリンクを作るために使われます。 `a` タグはウェブ上�
 ただし、最近のブラウザではこの `noopener` を指定していなくても、移動先のページから操作できないようになっています。
 
 ```html
-<a href="https://example.com" target="_blank" rel="noopener">>Exampleサイトへ移動</a>
+<a href="https://example.com" target="_blank" rel="noopener">Exampleサイトへ移動</a>
 ```
 
 ## ハンズオン問題： aタグを設定してみよう
